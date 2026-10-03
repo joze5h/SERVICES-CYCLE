@@ -42,6 +42,6 @@ The x64 Release configuration requests Administrator privileges. Running elevate
 
 ## Source layout
 
-- `Services-Cycle/Services-Cycle.cpp` - service enumeration, process cycle sampling, attribution, and console output
-- `Services-Cycle/Services-Cycle.vcxproj` - C++20 build configurations
+- `SERVICES-CYCLE/Services-Cycle.cpp` - service enumeration, process cycle sampling, attribution, and console output
+- `SERVICES-CYCLE/Services-Cycle.vcxproj` - C++20 build configurations
 - `host-process-cycles.jpg` and `service-inventory-no-pid.jpg` are published as the descriptive screenshots linked above.
