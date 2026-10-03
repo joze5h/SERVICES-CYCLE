@@ -1,0 +1,11 @@
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.pdb
+*.ilk
+*.iobj
+*.ipdb
+*.obj
+*.tlog/
